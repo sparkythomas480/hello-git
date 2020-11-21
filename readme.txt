@@ -1,1 +1,1 @@
-First check-in to feature2 branch
+This is a resolved conflict
