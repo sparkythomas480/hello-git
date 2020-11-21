@@ -1,1 +1,1 @@
-edit2
+This is a resolved conflict
